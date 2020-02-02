@@ -1,6 +1,6 @@
 package com.chamil.codetest;
 
-import com.chamil.codetest.model.Bird;
+import com.chamil.codetest.model.bird.Bird;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
