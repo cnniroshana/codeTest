@@ -12,6 +12,9 @@ public class Parrot extends Bird {
         this.nearBy = nearByParam;
     }
 
+    public Parrot(){
+
+    }
     public enum NearBy {
         DOG,
         CAT,
