@@ -1,8 +1,8 @@
 package com.chamil.codetest.model.bird;
 
-import com.chamil.codetest.model.ISwim;
+import com.chamil.codetest.model.Swim;
 
-public class Duck extends Bird implements ISwim {
+public class Duck extends Bird implements Swim {
     @Override
     public void makeSound() {
         System.out.println("Quack, quack");

@@ -1,6 +1,6 @@
 package com.chamil.codetest.model;
 
-public interface ISwim {
+public interface Swim {
     /**
      * swimming ability
      */
