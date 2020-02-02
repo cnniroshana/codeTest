@@ -1,9 +1,6 @@
 package com.chamil.codetest;
 
-import com.chamil.codetest.model.Animal;
-import com.chamil.codetest.model.CannotFly;
-import com.chamil.codetest.model.Frog;
-import com.chamil.codetest.model.Swim;
+import com.chamil.codetest.model.*;
 import com.chamil.codetest.model.animal.Cat;
 import com.chamil.codetest.model.animal.Dog;
 import com.chamil.codetest.model.bird.*;

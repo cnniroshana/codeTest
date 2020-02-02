@@ -1,6 +1,8 @@
 package com.chamil.codetest.model.bird;
 
-public class Chicken extends Bird {
+import com.chamil.codetest.model.CannotFly;
+
+public class Chicken extends Bird implements CannotFly {
 
     @Override
     public void makeSound() {
